@@ -3,5 +3,5 @@
 <<<<<<< HEAD
 this is a new quote from main
 =======
-I like blue
+I like green
 >>>>>>> personal_quotes
