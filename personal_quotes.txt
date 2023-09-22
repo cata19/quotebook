@@ -1,7 +1,3 @@
 "Life's greatest adventure is the journey to discover the extraordinary within the ordinary, for in the everyday moments, we find the truest reflections of ourselves." - CHATGPT
 
-<<<<<<< HEAD
-this is a new quote from main
-=======
 I like green
->>>>>>> personal_quotes
